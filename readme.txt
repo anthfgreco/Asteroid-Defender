@@ -17,3 +17,5 @@ Mouse: Move your spaceship
 Left-click: Shoot laser
 
 ==================================================
+
+<img src="https://github.com/anthfgreco/Asteroid-Defender/blob/master/screenshot1.png?raw=true"/>
