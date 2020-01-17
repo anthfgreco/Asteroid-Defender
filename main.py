@@ -7,14 +7,14 @@ GREY  = (     0x7A797B)
 RED   = (     0xAC1212)
 GREEN = (     0x5AC52B)
 
-# Call this function so the Pygame library can initialize itself
+# Initialize Pygame library
 pygame.init()
 
 # Create a 800x800 screen
 screen = pygame.display.set_mode([800, 800])
 
 # This sets the name of the window
-pygame.display.set_caption('Anthony Greco\'s Sick Game')
+pygame.display.set_caption('Asteroid Defender')
 
 clock = pygame.time.Clock()
 
@@ -96,6 +96,6 @@ while not done:
 
     pygame.display.flip()
 
-    clock.tick(60)
+    clock.tick(75)
 
 pygame.quit()
