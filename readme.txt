@@ -1,5 +1,7 @@
+Grade 12 project made for computer science class.
+
 ==================================================
-Dodge the asteroids and shoot your cosmetic laser!
+Dodge the asteroids and shoot you laser at the asteroids!
 
 __
 | \               -        -         -          -                     
