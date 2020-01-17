@@ -2,13 +2,15 @@ Grade 12 project made for computer science class.
 Created with Python 2.7 and Pygame 1.9.6.
 
 ==================================================
-Dodge the asteroids and shoot you laser at the asteroids!
 
+Dodge the asteroids and shoot your laser at the asteroids!
+<pre>
 __
 | \               -        -         -          -                     
 =[_|H)--._____       - 
 =[+--,-------'    -             -        -                      
- [|_/""--             -     -        -       -       
+ [|_/""--             -     -        -       -           
+</pre>
         
 ==================================================
 
